@@ -1,0 +1,6 @@
+*.obj
+*.pch
+*.ipch
+*.sdf
+*.suo
+*.vcxproj.user
